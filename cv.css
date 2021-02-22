@@ -1,0 +1,78 @@
+.personal
+{
+ background-color:rgb(71, 71, 71);
+
+}
+
+#cara
+{
+    float: none;
+    width:200px;
+    height:200px;
+    border-radius:100px;
+}
+
+h2
+{
+    color: darkorange;
+    text-align: center;
+}
+
+h4
+{
+    color: darkorange;
+    text-align: center;
+}
+
+.direccion
+{
+    
+}
+
+.perfil
+{
+    
+}
+#p
+{
+    float:left;
+    text-align: left;
+    color: darkorange;
+    
+}
+
+p
+{
+    width: 200px;
+}
+
+.competencias
+{
+    
+}
+#c
+{
+    text-align: left;
+    color: darkorange;
+}
+
+#file
+{
+
+}
+
+#compets
+{
+    text-align:left;
+}
+
+.profesional
+{
+    background-color: grey;
+    width: 650px;
+}
+
+#int
+{
+    width: 600px;
+}
