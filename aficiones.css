@@ -1,0 +1,64 @@
+
+h1
+{
+    text-align: center;
+}
+
+.izquierda
+{
+    float: left;
+    width: 405px;
+
+    padding-right: 200px;
+
+}
+
+.winchi
+{
+   
+    border: solid;
+}
+
+#wing
+{
+    width: 200px;
+    height: 275px;
+}
+
+.derecha
+{
+    float: right;
+    width: 405px;
+    margin-left: 200px;
+}
+.petar
+{
+    border: solid;
+}
+
+#ping
+{   
+    width: 200px;
+    height: 275px;
+}
+
+div
+{
+    background-color: ivory;
+}
+
+p
+{
+    float: left;
+    width: 200;    
+}
+
+h3
+{
+    /* float: none; */
+}
+
+#W
+{
+
+}
